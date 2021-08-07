@@ -237,6 +237,8 @@ nav a:hover {
 .main-container .main .heading{
     text-align: center;
     text-transform: uppercase;
+    position: relative;
+    z-index: 10;
 }
 
 .bizBox{
