@@ -187,6 +187,8 @@ nav a:hover {
     position: relative;
     font-size: 20px;
     padding-left: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
 }
 .menu ul li a .fas{
     margin-right: 15px;
@@ -239,6 +241,8 @@ nav a:hover {
     text-transform: uppercase;
     position: relative;
     z-index: 10;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
 }
 
 .bizBox{
@@ -253,7 +257,9 @@ nav a:hover {
 }
 .bizBox h3{
     padding-left: 15px;
-    color:#fbfb00 ;
+    color:#fbfb00;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
 }
 .bizBox .imgHolder{
     position: relative;
@@ -268,7 +274,8 @@ nav a:hover {
     left: 8px;
     border-radius: 10px;
     color: white;
-    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
 }
 .bizBox .listImg{
     width: 100%;
@@ -280,6 +287,8 @@ nav a:hover {
     font-size: 15px;
     padding-left: 15px;
     color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
 }
 .bizBox .holder .fas{
     margin-right: 10px;
